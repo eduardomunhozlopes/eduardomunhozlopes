@@ -1,12 +1,12 @@
 # 👋 Eduardo Lopes
 
-Bem-vindo ao meu GitHub! Sou o **Eduardo Lopes**, desenvolvedor front-end, tenho experiência em criar interfaces modernas, interativas e responsivas, utilizando ferramentas e frameworks atuais do desenvolvimento front-end.
+Bem-vindo ao meu GitHub! Sou o **Eduardo Lopes**, desenvolvedor front-end, tenho experiência em criar interfaces modernas, interativas e responsivas, utilizando ferramentas e frameworks atuais de desenvolvimento.
 
 ## 🚀 Habilidades Técnicas
 
 <div align="center">
-  <a href="https://github.com/DuzinhoLopes">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuzinhoLopes&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+  <a href="https://github.com/eduardomunhozlopes">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomunhozlopes&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ### **Tecnologias e Ferramentas**
